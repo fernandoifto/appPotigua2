@@ -29,4 +29,3 @@ configuration relevant for your application.
 
 [https://github.com/CakePHPBrasil/TwitterBootstrap](https://github.com/CakePHPBrasil/TwitterBootstrap)
 
-
